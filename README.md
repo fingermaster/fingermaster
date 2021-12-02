@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fingermaster - mom call me that. Just kidding - actually no one calls me that.
+- 👀 I’m interested in ... alot things
+- 🌱 I'm currently learning Angular, TypeScript and a few other things, but right now (as you read these characters), probably not anymore. Whose fault is that? I'm suspect time. But time has no interest, doesn't compete with anyone, and generally isn't worth wasting your time on. So stop reading this nonsense and go coding!
+- 📫 How to reach me ... Await me on 5 day with first sunlights. I will come  from the East.
