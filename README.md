@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @fingermaster - mom call me that. Just kidding - actually no one calls me that.
-- 👀 I’m interested in ... alot things
-- 🌱 I'm currently learning Angular, TypeScript and a few other things, but right now (as you read these characters), probably not anymore. Whose fault is that? I'm suspect time. But time has no interest, doesn't compete with anyone, and generally isn't worth wasting your time on. So stop reading this nonsense and go coding!
-- 📫 How to reach me ... Await me on 5 day with first sunlights. I will come  from the East.
+👋 Hi, I'm @fingermaster - my mom calls me that. Just kidding - no one actually calls me that.
+👀 I'm interested in ... A lot of things.
+🌱 I learn anything anytime anywhere, and money doesn't matter. 
+📫 How to contact me ... ? 
+ Expect me on day 5 with the first rays of the sun. I will come from the east.
